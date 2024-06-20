@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238263015355",
+    "project_id": "otg-app-60736",
+    "storage_bucket": "otg-app-60736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238263015355:android:e96df7fa8a0e3bba8bd69e",
+        "android_client_info": {
+          "package_name": "com.example.appointments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5aAsG0dwOnLIVbNwX-T-BOpEI3sns0AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
